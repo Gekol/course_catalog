@@ -11,7 +11,7 @@
     ```
     virtualenv name_of_the_venv
     ```
-Virtual environment shoukld be at the same level as `courses` and `course_catalog` folders
+Virtual environment should be at the same level as `courses` and `course_catalog` folders
 3. Activate the venv with command
     ```
     source mypython/bin/activate
