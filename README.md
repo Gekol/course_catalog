@@ -14,7 +14,7 @@
 Virtual environment should be at the same level as `courses` and `course_catalog` folders
 3. Activate the venv with command
     ```
-    source mypython/bin/activate
+    source name_of_the_venv/bin/activate
     ```
 if you use Mac OS or Linux. For Windows, use the following command
     ```
