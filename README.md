@@ -26,14 +26,6 @@ if you use Mac OS or Linux. For Windows, use the following command
     ```
 5. Run the command
    ```
-   python manage.py makemigrations
-   ```
-6. Run the command
-   ```
-   python manage.py migrate
-   ```
-7. Run the command
-   ```
    python manage.py runserver
    ```
-8. Open the ```http://127.0.0.1:8000/``` in browser
+6. Open the ```http://127.0.0.1:8000/``` in browser
